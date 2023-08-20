@@ -30,14 +30,14 @@ const Services = () => {
         <Card
             emoji={HeartEmoji}
             heading={'Design'}
-            detail={"figma,sketch,photoshop,adobe,adobe xd"}
+            detail={"Lorem ispum dummy text are usually use in section where we need some random text"}
         />
        </div>
        <div style={{top:'12rem', left:'-4rem'}}>
         <Card 
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html,Css,Javascript,React"}
+            detail={"Lorem ispum dummy text are usually use in section where we need some random text"}
         />
        </div>
        <div style={{top:'19rem', left:'12rem'}}>

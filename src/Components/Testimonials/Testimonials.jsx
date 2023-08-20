@@ -7,7 +7,8 @@ import profilePic3 from "../../img/profile3.jpg";
 import profilePic4 from "../../img/profile4.jpg";
 import { Pagination } from 'swiper/modules';
 import "swiper/css/pagination";
-import 'swiper/css'
+import 'swiper/css';
+
 
 
 const Testimonials = () => {

@@ -30,10 +30,10 @@ function Intro() {
         </div>
         <button className=' button i-button'>Hire me</button>
         <div className='i-icons'>
-        <a href='/'> <img src={Github} alt=''/></a>
+        <a href='https://github.com/AMANKUMARAKASH'> <img src={Github} alt=''/></a>
        
-        <a href='/'><img src={LinkedIn} alt=''/></a>
-       <a href='/'> <img src={Instagram} alt=''/></a>
+        <a href='https://www.linkedin.com/in/aman-kumar-514612177/'><img src={LinkedIn} alt=''/></a>
+       <a href='https://www.instagram.com/stories/aman_kumar_0305/'> <img src={Instagram} alt=''/></a>
 
 
         </div>

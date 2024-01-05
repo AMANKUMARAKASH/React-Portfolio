@@ -4,7 +4,7 @@ import HeartEmoji from "../../img/heartemoji.png";
 import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import Card from "../Card/Card";
-import Resume from './resume.pdf';
+// import Resume from './resume.pdf';
 import {themeContext} from '../../Context';
 
 
@@ -18,7 +18,7 @@ const Services = () => {
       <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span> Services</span>
         <span>In this Reactjs project, we will make an awesome responsive personal portfolio website step-by-step.<br/> We learn React hooks, modern CSS, swiper js, framer motion, and many more. For contact,<br/> we will use the Email js library.<br/> To make this site more functional and practical, we will implement dark and light mode with the useContext hook.</span>
-        <a href={Resume} download>
+        <a href="https://drive.google.com/file/d/1IUPSYVpiMYWGDZi1bTTQuACtyB08jIMO/view?usp=drive_link" download>
         <button className="button s-button">Download CV</button>
         </a>
        
